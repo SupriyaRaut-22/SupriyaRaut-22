@@ -36,7 +36,7 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :mortar_board: I have completed my Master's in Computer Engineering from VIT.
 
-- :telescope: Experienced in contributing to frontend and backend development through completion of multiple internships in Software development.
+- :telescope: Experienced in contributing to frontend and backend development through completion of multiple internships in SDE.
 
 - :seedling: Exploring Technical Content Writing and learning different languages.
 
